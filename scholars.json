@@ -1,0 +1,92 @@
+var scholars=[
+    {
+        "slot":0,
+        "adress": "0x988Af929dd68DF896Ee0668d2007Fb48bA51C3E8",
+        "name":"Pippex",
+        "slpsnapshot":0
+    },
+    {
+        "slot":1,
+        "adress": "0x71d6BfcAa9C25469171eBA261Ba9E372B88b0Ea0",
+        "name":"Retro",
+        "slpsnapshot":0
+    },
+    {
+        "slot":2,
+        "adress": "0x1976C01694e339514771d17894C7DA35b2eB0326",
+        "name":"Duck",
+        "slpsnapshot":0
+    },
+    {
+        "slot":3,
+        "adress": "0xB1Db702a0Ce16070d49EB4Ff6f264bb9A45d5E53",
+        "name":"potpot",
+        "slpsnapshot":0
+    },
+    {
+        "slot":4,
+        "adress": "0x13c9616291433a83A2891c1023a413a5D2De8261",
+        "name":"Raenbow",
+        "slpsnapshot":0
+    },
+    {
+        "slot":5,
+        "adress": "0x41a6d0218FfcA95Ad50f1cB9a76C1cBBCfb6FC82",
+        "name":"MAD",
+        "slpsnapshot":0
+    },
+    {
+        "slot":6,
+        "adress": "0x2A35cCF00D21Ce455d6B9A80D24944a8de7a984f",
+        "name":"Paul",
+        "slpsnapshot":0
+    },
+    {
+        "slot":7,
+        "adress": "0x6cC9036cdf5ec86B0F5Fe2E2e70C15ccD4d79D36",
+        "name":"Axie.GG21",
+        "slpsnapshot":0
+    },
+    {
+        "slot":8,
+        "adress": "0x06B5d5e97b09d11c6485994eDa1320706D088fA1",
+        "name":"Vanz",
+        "slpsnapshot":0
+    },
+    {
+        "slot":9,
+        "adress": "0x02d5e1E1625ee7349d134D101F01b18Dc2d6C079",
+        "name":"Diovan",
+        "slpsnapshot":0
+    },
+    {
+        "slot":10,
+        "adress": "0xeca80D43611175a377ac74a57C4aaCd703783BcD",
+        "name":"Sam",
+        "slpsnapshot":0
+    },
+    {
+        "slot":11,
+        "adress": "0xAfAC7E576D3401110Cf8bDcf98e701430eAD3DE2",
+        "name":"Angela",
+        "slpsnapshot":0
+    },
+    {
+        "slot":12,
+        "adress": "0x3d7ae1A63B8bD8C9596Ff4658d149273cF7c0f3B",
+        "name":"Beatrix",
+        "slpsnapshot":0
+    },
+    {
+        "slot":13,
+        "adress": "0xe19BB507251A01e38485d4cE7C55da9989fd2C51",
+        "name":"Duriel",
+        "slpsnapshot":0
+    },
+    {
+        "slot":14,
+        "adress": "0xb3849106cb666118ece5F4Bd05dEcF250292E623",
+        "name":"Axie.GG22",
+        "slpsnapshot":0
+    },
+]
