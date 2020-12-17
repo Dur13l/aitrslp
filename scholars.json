@@ -89,4 +89,53 @@ var scholars=[
         "name":"Axie.GG22",
         "slpsnapshot":0
     },
+    {
+        "slot":15,
+        "adress": "0x0E1F69B344a62aB720Ef26FFA73934d80FE6F352",
+        "name":"Robert Arante",
+        "slpsnapshot":0
+    },
+    {
+        "slot":16,
+        "adress": "0xbDB8D4Cbd2aF78664d6bDFF4D522B1064bFc50A8",
+        "name":"Necro.GG",
+        "slpsnapshot":0
+    },
+    {
+        "slot":17,
+        "adress": "0x528Eb345c772aFe787CecFF0805C8B36DAD1A040",
+        "name":"Vale.Axie",
+        "slpsnapshot":0
+    },
+    {
+        "slot":18,
+        "adress": "0xb516600d4F3d52A560aDd03C0271270483Bd0CCd",
+        "name":"Criptosoul",
+        "slpsnapshot":0
+    },
+    {
+        "slot":19,
+        "adress": "0xB9e057e0f7d6Bd74E5B54d8435f6128Fcc46b368",
+        "name":"Ron",
+        "slpsnapshot":0
+    },
+    {
+        "slot":20,
+        "adress": "0x1e7E90E91Cc9271233B1FBD424cdeE3A089d80B4",
+        "name":"Jommel Raenbow's Partner",
+        "slpsnapshot":0
+    },
+    {
+        "slot":20,
+        "adress": "0x55A6687ca397A93adaC4a8e894EAF0B030Db1cc3",
+        "name":"YaGameR",
+        "slpsnapshot":0
+    },
+    {
+        "slot":20,
+        "adress": "0xD5e7da5eCeE0F19273234539AABe26FbC48f4E12",
+        "name":"Dabi",
+        "slpsnapshot":0
+    },
+
 ]
