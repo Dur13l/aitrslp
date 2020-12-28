@@ -8,7 +8,7 @@ var scholars=[
     {
         "slot":1,
         "adress": "0x71d6BfcAa9C25469171eBA261Ba9E372B88b0Ea0",
-        "name":"Retro",
+        "name":"Yokih",
         "slpsnapshot":0
     },
     {
@@ -80,7 +80,7 @@ var scholars=[
     {
         "slot":13,
         "adress": "0xe19BB507251A01e38485d4cE7C55da9989fd2C51",
-        "name":"Duriel",
+        "name":"Paula",
         "slpsnapshot":0
     },
     {
@@ -110,7 +110,7 @@ var scholars=[
     {
         "slot":18,
         "adress": "0xb516600d4F3d52A560aDd03C0271270483Bd0CCd",
-        "name":"Criptosoul",
+        "name":"Zblboula",
         "slpsnapshot":0
     },
     {
@@ -126,15 +126,39 @@ var scholars=[
         "slpsnapshot":0
     },
     {
-        "slot":20,
+        "slot":21,
         "adress": "0x55A6687ca397A93adaC4a8e894EAF0B030Db1cc3",
         "name":"YaGameR",
         "slpsnapshot":0
     },
     {
-        "slot":20,
+        "slot":22,
         "adress": "0xD5e7da5eCeE0F19273234539AABe26FbC48f4E12",
         "name":"Dabi",
+        "slpsnapshot":0
+    },
+    {
+        "slot":23,
+        "adress": "0xE1Cba36790CaE8D2C3A3C08872f4df395d63D9cf",
+        "name":"NecroPed",
+        "slpsnapshot":0
+    },
+    {
+        "slot":24,
+        "adress": "0x19E784080D119BB80eFD2B5815c80347409603a1",
+        "name":"Janggo",
+        "slpsnapshot":0
+    },
+    {
+        "slot":25,
+        "adress": "0x1fB54Ab59ea542Edee8bA3aCd4dd293e60b148A8",
+        "name":"Criptosoul",
+        "slpsnapshot":0
+    },
+    {
+        "slot":26,
+        "adress": "0xCAb066ccbA8f3BBC55303AE7e86CAA566b044F40",
+        "name":"Adobong Ube",
         "slpsnapshot":0
     },
 
