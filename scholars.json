@@ -139,24 +139,18 @@ var scholars=[
     },
     {
         "slot":23,
-        "adress": "0xE1Cba36790CaE8D2C3A3C08872f4df395d63D9cf",
-        "name":"NecroPed",
-        "slpsnapshot":0
-    },
-    {
-        "slot":24,
         "adress": "0x19E784080D119BB80eFD2B5815c80347409603a1",
         "name":"Bijang",
         "slpsnapshot":0
     },
     {
-        "slot":25,
+        "slot":24,
         "adress": "0x1fB54Ab59ea542Edee8bA3aCd4dd293e60b148A8",
         "name":"Criptosoul",
         "slpsnapshot":0
     },
     {
-        "slot":26,
+        "slot":25,
         "adress": "0xCAb066ccbA8f3BBC55303AE7e86CAA566b044F40",
         "name":"Adobong Ube",
         "slpsnapshot":0
