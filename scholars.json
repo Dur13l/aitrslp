@@ -92,7 +92,7 @@ var scholars=[
     {
         "slot":15,
         "adress": "0x0E1F69B344a62aB720Ef26FFA73934d80FE6F352",
-        "name":"Robert Arante",
+        "name":"owellaxei.gg",
         "slpsnapshot":1933
     },
     {
@@ -122,7 +122,7 @@ var scholars=[
     {
         "slot":20,
         "adress": "0x1e7E90E91Cc9271233B1FBD424cdeE3A089d80B4",
-        "name":"Jommel Raenbow's Partner",
+        "name":"Jommel",
         "slpsnapshot":1133
     },
     {
