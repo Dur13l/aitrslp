@@ -3,157 +3,175 @@ var scholars=[
         "slot":0,
         "adress": "0x988Af929dd68DF896Ee0668d2007Fb48bA51C3E8",
         "name":"Pippex",
-        "slpsnapshot":780
+        "slpsnapshot":780+868
     },
     {
         "slot":1,
         "adress": "0x71d6BfcAa9C25469171eBA261Ba9E372B88b0Ea0",
         "name":"Yokih",
-        "slpsnapshot":1492
+        "slpsnapshot":1492+4005
     },
     {
         "slot":2,
         "adress": "0x1976C01694e339514771d17894C7DA35b2eB0326",
         "name":"Duck",
-        "slpsnapshot":1774
+        "slpsnapshot":1774+3676
     },
     {
         "slot":3,
         "adress": "0xB1Db702a0Ce16070d49EB4Ff6f264bb9A45d5E53",
-        "name":"potpot",
-        "slpsnapshot":2128
+        "name":"MickyG",
+        "slpsnapshot":2128+92
     },
     {
         "slot":4,
         "adress": "0x13c9616291433a83A2891c1023a413a5D2De8261",
-        "name":"Raenbow",
-        "slpsnapshot":5996
+        "name":"RaeRae",
+        "slpsnapshot":5996+3010
     },
     {
         "slot":5,
         "adress": "0x41a6d0218FfcA95Ad50f1cB9a76C1cBBCfb6FC82",
         "name":"MAD",
-        "slpsnapshot":3529
+        "slpsnapshot":3529+8056
     },
     {
         "slot":6,
         "adress": "0x2A35cCF00D21Ce455d6B9A80D24944a8de7a984f",
-        "name":"Paul",
-        "slpsnapshot":4119
+        "name":"12HRS",
+        "slpsnapshot":4119+7187
     },
     {
         "slot":7,
         "adress": "0x6cC9036cdf5ec86B0F5Fe2E2e70C15ccD4d79D36",
         "name":"Axie.GG21",
-        "slpsnapshot":4169
+        "slpsnapshot":4169+11387
     },
     {
         "slot":8,
         "adress": "0x06B5d5e97b09d11c6485994eDa1320706D088fA1",
         "name":"Vanz",
-        "slpsnapshot":4328
+        "slpsnapshot":4328+3717
     },
     {
         "slot":9,
         "adress": "0x02d5e1E1625ee7349d134D101F01b18Dc2d6C079",
         "name":"Diovan",
-        "slpsnapshot":1591
+        "slpsnapshot":1591+7551
     },
     {
         "slot":10,
         "adress": "0xeca80D43611175a377ac74a57C4aaCd703783BcD",
         "name":"Sam",
-        "slpsnapshot":1899
+        "slpsnapshot":1899+6798
     },
     {
         "slot":11,
         "adress": "0xAfAC7E576D3401110Cf8bDcf98e701430eAD3DE2",
         "name":"Angela",
-        "slpsnapshot":6574
+        "slpsnapshot":6574+5249
     },
     {
         "slot":12,
         "adress": "0x3d7ae1A63B8bD8C9596Ff4658d149273cF7c0f3B",
         "name":"Beatrix",
-        "slpsnapshot":736
+        "slpsnapshot":736+3648
     },
     {
         "slot":13,
         "adress": "0xe19BB507251A01e38485d4cE7C55da9989fd2C51",
         "name":"Paula",
-        "slpsnapshot":466
+        "slpsnapshot":466+2081
     },
     {
         "slot":14,
         "adress": "0xb3849106cb666118ece5F4Bd05dEcF250292E623",
         "name":"Axie.GG22",
-        "slpsnapshot":2223
+        "slpsnapshot":2223+5569
     },
     {
         "slot":15,
         "adress": "0x0E1F69B344a62aB720Ef26FFA73934d80FE6F352",
         "name":"owellaxei.gg",
-        "slpsnapshot":1933
+        "slpsnapshot":1933+6622
     },
     {
         "slot":16,
         "adress": "0xbDB8D4Cbd2aF78664d6bDFF4D522B1064bFc50A8",
         "name":"Necro.GG",
-        "slpsnapshot":2249
+        "slpsnapshot":2249+4299
     },
     {
         "slot":17,
         "adress": "0x528Eb345c772aFe787CecFF0805C8B36DAD1A040",
         "name":"Vale.Axie",
-        "slpsnapshot":2410
+        "slpsnapshot":2410+5583
     },
     {
         "slot":18,
         "adress": "0xb516600d4F3d52A560aDd03C0271270483Bd0CCd",
-        "name":"Amine",
-        "slpsnapshot":1991
+        "name":"Mario",
+        "slpsnapshot":1991+642
     },
     {
         "slot":19,
         "adress": "0xB9e057e0f7d6Bd74E5B54d8435f6128Fcc46b368",
         "name":"Ron",
-        "slpsnapshot":2940
+        "slpsnapshot":2940+5166
     },
     {
         "slot":20,
         "adress": "0x1e7E90E91Cc9271233B1FBD424cdeE3A089d80B4",
-        "name":"Jommel",
-        "slpsnapshot":1133
+        "name":"PRLLX",
+        "slpsnapshot":1133+2064
     },
     {
         "slot":21,
         "adress": "0x55A6687ca397A93adaC4a8e894EAF0B030Db1cc3",
         "name":"YaGameR",
-        "slpsnapshot":3934
+        "slpsnapshot":3934+8519
     },
     {
         "slot":22,
         "adress": "0xD5e7da5eCeE0F19273234539AABe26FbC48f4E12",
         "name":"Dabi",
-        "slpsnapshot":3003
+        "slpsnapshot":3003+5720
     },
     {
         "slot":23,
         "adress": "0x19E784080D119BB80eFD2B5815c80347409603a1",
         "name":"Bijang",
-        "slpsnapshot":172
+        "slpsnapshot":172+5353
     },
     {
         "slot":24,
         "adress": "0x1fB54Ab59ea542Edee8bA3aCd4dd293e60b148A8",
         "name":"Criptosoul",
-        "slpsnapshot":201
+        "slpsnapshot":201+4940
     },
     {
         "slot":25,
         "adress": "0xCAb066ccbA8f3BBC55303AE7e86CAA566b044F40",
         "name":"Ubes",
-        "slpsnapshot":694
+        "slpsnapshot":694+5353
+    },
+    {
+        "slot":26,
+        "adress": "0x60e25d9b18dd3728ba318dee7a41aaf7e0342d93",
+        "name":"JB",
+        "slpsnapshot":
+    },
+    {
+        "slot":27,
+        "adress": "0x36d97419805a4f5e194230e5bcf409afb1e9f0e3",
+        "name":"Maria",
+        "slpsnapshot":
+    },
+    {
+        "slot":28,
+        "adress": "0xa3b36b5a809386ebe600adc7be18e580d7658dd1",
+        "name":"Victor",
+        "slpsnapshot":
     },
 
 ]
