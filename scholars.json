@@ -159,19 +159,19 @@ var scholars=[
         "slot":26,
         "adress": "0x60e25d9b18dd3728ba318dee7a41aaf7e0342d93",
         "name":"JB",
-        "slpsnapshot":
+        "slpsnapshot":0
     },
     {
         "slot":27,
         "adress": "0x36d97419805a4f5e194230e5bcf409afb1e9f0e3",
         "name":"Maria",
-        "slpsnapshot":
+        "slpsnapshot":0
     },
     {
         "slot":28,
         "adress": "0xa3b36b5a809386ebe600adc7be18e580d7658dd1",
         "name":"Victor",
-        "slpsnapshot":
+        "slpsnapshot":0
     },
 
 ]
