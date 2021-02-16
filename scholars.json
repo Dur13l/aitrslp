@@ -173,5 +173,11 @@ var scholars=[
         "name":"Victor",
         "slpsnapshot":0
     },
+    {
+        "slot":29,
+        "adress": "0x7d5ff401d21a6d55e7bf8cd28039b4b38b71cfe7",
+        "name":"Hamzaou",
+        "slpsnapshot":0
+    },
 
 ]
